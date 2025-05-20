@@ -1,0 +1,17 @@
+dash==2.17.0
+dash-bootstrap-components==1.5.0
+dash-core-components == 2.0.0
+dash-html-components == 2.0.0
+dash-table ==5.0.0
+plotly==5.22.0
+pandas==2.2.2
+numpy==1.26.4
+
+# Optional but common for interactive dashboards
+flask==3.0.2
+
+# For deploying the app (e.g., on Heroku or Render)
+gunicorn==21.2.0
+
+# Useful during development
+python-dotenv==1.0.1
